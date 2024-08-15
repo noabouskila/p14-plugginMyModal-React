@@ -1,4 +1,4 @@
-import Modal  from './Modal/Modal';
+import Modal  from './lib/Modal/Modal';
 export default Modal;
 
 
