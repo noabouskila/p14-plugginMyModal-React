@@ -12,9 +12,9 @@ function Modal({isOpen , onClose , children}) {
 
             <div className="modal-content">
 
-                <button className="close" onClick={onClose}>
+                {/* <button className="close" onClick={onClose}>
                     &times;
-                </button>
+                </button> */}
                 {children}
 
             </div>
