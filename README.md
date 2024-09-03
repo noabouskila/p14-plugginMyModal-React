@@ -21,8 +21,8 @@ Ce projet est un plugin modal pour React, conçu pour être facilement intégré
 ## Utilisation
 
 voici un expemple d'utilisation du pluggin dans votre projet 
-
-`import React, { useState } from 'react';
+```javascript
+import React, { useState } from 'react';
 import MyModal from '@noabouskila/p14-modal';
 
 const App = () => {
