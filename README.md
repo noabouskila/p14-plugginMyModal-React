@@ -45,6 +45,8 @@ const App = () => {
 
 export default App;
 
+```
+
 ## Dépendances
 
 Voici les dépendances utilisées dans le projet :
